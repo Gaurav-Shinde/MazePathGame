@@ -2,10 +2,8 @@ import java.util.*;
 import java.awt.Point;
 import java.util.LinkedList;
 
-//WORKING :)
 /*
 
-Gaurav Shinde, CIS 2168_04
 This program creates a mazepath using
 Depth First Search algorithm rather than
 Breadth First Search. Depth First Search is based
