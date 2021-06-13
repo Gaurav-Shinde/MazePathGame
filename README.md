@@ -11,7 +11,7 @@ Java version 1.8.0 and higher
 Java SE JDK 8 or higher -- but it must be the same as Java version
 
 ## Prerequisites setup
-Use this [link] (https://www.oracle.com/java/technologies/javase-downloads.html) to download the appropriate JDK which also installs the Java version compatible.
+Use this [link](https://www.oracle.com/java/technologies/javase-downloads.html) to download the appropriate JDK which also installs the Java version compatible.
 
 ## How to run
 In a terminal or command line type ```cd src``` to the src folder. Next, ``` javac <YourMazePath>.java InputGraphicMaze.java <Your Intcoll>.java``` to compile. Then, ``` java <YourMazePath> ``` to run the program.
