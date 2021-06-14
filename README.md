@@ -22,13 +22,17 @@ But new features will soon be added for data structure files like array, FIFO Qu
 
 After running the src program file, enter the # of rows and columns for the matrix and it generates a random maze. 
 
-<img src="images/nxnbox.png" alt="20x20 matrix specify"/>
+<img src="images/nxnbox.PNG" alt="20x20 matrix specify"/>
 
-<img src="./images/part1.png" alt="20x20 matrix created"/>
+![20x20 matrix specify](https://github.com/GauravShindeT/MazePathGame/blob/main/images/nxnbox.PNG?raw=true)
+
+![plot](./images/part1.PNG)
+
+<img src="./images/part1.PNG" alt="20x20 matrix created"/>
 
 The show path button shows the path to navigate the maze along with information about the data structure and algorithm including time complexity and time differnce.
 
-<img src="images/part2.png" alt="path and stats displayed"/>
+<img src="/images/part2.PNG" alt="path and stats displayed"/>
 
 New feature will include rank out of the other possible pair combinations based on time complexity for the respective matrix size.
 
