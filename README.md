@@ -25,6 +25,7 @@ After running the src program file, enter the # of rows and columns for the matr
 <img src="images/nxnbox.PNG" alt="20x20 matrix specify"/>
 
 Randomly Generated 20 x 20 Maze
+
 <img src="./images/part1.PNG" alt="20x20 matrix created"/>
 
 The show path button shows the path to navigate the maze along with information about the data structure and algorithm including time complexity and time differnce.
