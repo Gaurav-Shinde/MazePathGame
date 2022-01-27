@@ -34,5 +34,5 @@ The show path button shows the path to navigate the maze along with information 
 
 New feature will include rank out of the other possible pair combinations based on time complexity for the respective matrix size.
 
-## Restrictions of use 
-This repo may be cloned and used, however credit must be given to Gaurav Shinde for any modifications or use of the files and code in this repo.
+## Permissions and Restrictions of use 
+This repo may be cloned and its code may be used, however credit must be given to Gaurav Shinde for any modifications or use of the files and code in this repo.
